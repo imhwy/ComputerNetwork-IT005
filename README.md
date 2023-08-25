@@ -22,7 +22,7 @@
 clone:
 ```sh
 git clone https://github.com/imhwy/ComputerNetwork-IT005.git
-cd IT007-OS
+cd ComputerNetwork-IT005
 ```
 
 
